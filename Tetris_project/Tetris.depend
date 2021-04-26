@@ -1,0 +1,1337 @@
+# depslib dependency file v1.0
+1616840296 source:c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\data_tetris.cpp
+	"Data_Tetris.h"
+
+1616840215 source:c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\main.cpp
+	<iostream>
+	"Data_Tetris.h"
+
+1608572888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<sdkddkver.h>
+
+1608572889 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1608572889 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1608572888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1608572888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1608572888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1608572889 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1608572889 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1608572888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1608572888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1561870398 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2_image-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1616840466 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\data_tetris.h
+	"SDL_lib.h"
+	"ImageObject.h"
+	"TextObject.h"
+
+1616840785 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl_lib.h
+	<iostream>
+	<string>
+	<SDL.h>
+
+1614760545 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\imageobject.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<iostream>
+
+1614760556 source:c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\imageobject.cpp
+	"ImageObject.h"
+
+1616837071 source:c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl_lib.cpp
+
+1616830720 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\textobject.h
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1547322290 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\sdl2\sdl2_ttf-2.0.15\x86_64-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1616830720 source:c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\textobject.cpp
+	"TextObject.h"
+
+1616900794 source:c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\data_tetris.cpp
+	"Data_Tetris.h"
+
+1616900794 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\data_tetris.h
+	"SDL_lib.h"
+	"ImageObject.h"
+	"TextObject.h"
+
+1617422965 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl_lib.h
+	<iostream>
+	<string>
+	<SDL.h>
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<sdkddkver.h>
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1614760545 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\imageobject.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<iostream>
+
+1561819998 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2_image-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1616830720 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\textobject.h
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1547268290 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2_ttf-2.0.15\x86_64-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1614760556 source:c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\imageobject.cpp
+	"ImageObject.h"
+
+1617060262 source:c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl_lib.cpp
+
+1616830720 source:c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\textobject.cpp
+	"TextObject.h"
+
+1619426280 source:c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\main.cpp
+	<ctime>
+	"Input_Data.h"
+	"Game_Data.h"
+
+1540947618 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2_mixer-2.0.4\x86_64-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1617422955 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\game_data.h
+	<SDL_mixer.h>
+	<fstream>
+	"SDL_lib.h"
+	"SDL_ImageObject.h"
+	"SDL_TextObject.h"
+
+1619422039 source:c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\game_data.cpp
+	"Game_Data.h"
+
+1619426269 source:c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\input_data.cpp
+	"Input_Data.h"
+
+1617370026 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\input_data.h
+	<fstream>
+	"SDL_lib.h"
+	"SDL_ImageObject.h"
+	"SDL_TextObject.h"
+
+1617000532 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2_additionalx64\include\sdl_lib.h
+	<iostream>
+	<string>
+	<SDL.h>
+
+1616988194 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2_additionalx64\include\sdl_imageobject.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<iostream>
+
+1616987664 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl2\sdl2_additionalx64\include\sdl_textobject.h
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1617422977 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl_imageobject.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<iostream>
+
+1617422972 c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl_textobject.h
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1616937794 source:c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl_imageobject.cpp
+	"SDL_ImageObject.h"
+
+1616937434 source:c:\users\admin\onedrive\documents\education\2020-2021 ii\int2215 2\game tetris\tetris project\sdl_textobject.cpp
+	"SDL_TextObject.h"
+
+1616937794 source:c:\users\admin\downloads\tetris project\sdl_imageobject.cpp
+	"SDL_ImageObject.h"
+
+1617422977 c:\users\admin\downloads\tetris project\sdl_imageobject.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<iostream>
+
+1617060262 source:c:\users\admin\downloads\tetris project\sdl_lib.cpp
+
+1616937434 source:c:\users\admin\downloads\tetris project\sdl_textobject.cpp
+	"SDL_TextObject.h"
+
+1617422972 c:\users\admin\downloads\tetris project\sdl_textobject.h
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<sdkddkver.h>
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608518888 c:\users\admin\downloads\tetris project\sdl2\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547268290 c:\users\admin\downloads\tetris project\sdl2\sdl2_ttf-2.0.15\x86_64-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1561819998 c:\users\admin\downloads\tetris project\sdl2\sdl2_image-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1617371620 source:c:\users\admin\downloads\tetris project\game_data.cpp
+	"Game_Data.h"
+
+1617422955 c:\users\admin\downloads\tetris project\game_data.h
+	<SDL_mixer.h>
+	<fstream>
+	"SDL_lib.h"
+	"SDL_ImageObject.h"
+	"SDL_TextObject.h"
+
+1540947618 c:\users\admin\downloads\tetris project\sdl2\sdl2_mixer-2.0.4\x86_64-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1617422965 c:\users\admin\downloads\tetris project\sdl_lib.h
+	<iostream>
+	<string>
+	<SDL.h>
+
+1617370660 source:c:\users\admin\downloads\tetris project\input_data.cpp
+	"Input_Data.h"
+
+1617370026 c:\users\admin\downloads\tetris project\input_data.h
+	<fstream>
+	"SDL_lib.h"
+	"SDL_ImageObject.h"
+	"SDL_TextObject.h"
+
+1617370292 source:c:\users\admin\downloads\tetris project\main.cpp
+	<ctime>
+	"Input_Data.h"
+	"Game_Data.h"
+
