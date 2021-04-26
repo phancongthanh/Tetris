@@ -24,3 +24,4 @@ Winx64: main.cpp Game_Data.cpp Input_Data.cpp SDL_lib.cpp SDL_ImageObject.cpp SD
 
 Linux: main.cpp Game_Data.cpp Input_Data.cpp SDL_lib.cpp SDL_ImageObject.cpp SDL_TextObject.cpp
 	g++ -o Outfile/Linux/Tetris $? -lSDL2main -lSDL2 -lSDL2_image -lSDL2_mixer -lSDL2_ttf
+
